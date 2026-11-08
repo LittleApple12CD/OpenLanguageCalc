@@ -13,6 +13,25 @@
 # Prerequisites 必要环境
 - Java: Java 21
 - C#: .NET Runtime 10.0
-- JavaScript: Node
+- JavaScript: Node.js
 - Lua: Lua 5.5 Binary
 - Python: Python 3.12
+
+# Development Environment 开发环境
+- C++: MSYS2 UCRT64
+- C: MSYS2 UCRT64
+- Zig: Zig 0.17.1
+- Rust: Rustup 1.29.0
+- C#: .NET SDK 10.0
+- Java: JDK 21
+- Kotlin: Kotlin Compiler 2.4.21
+- Go: Go 1.21.5
+- JavaScript: Node.js 26.13.0
+- TypeScript: Node.js 26.13.0, TypeScript
+- Python: Python 3.12
+- Lua: Lua 5.5 Binary
+- Batch: None
+- PowerShell: None
+- VBScript: None
+- FASM: FASM 1.73
+- NASM: NASM 3.02
