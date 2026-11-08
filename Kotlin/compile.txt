@@ -1,0 +1,3 @@
+kotlinc calc.kt -d calc.jar
+# or
+kotlinc calc.kt -include-runtime -d calc.jar

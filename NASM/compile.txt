@@ -1,0 +1,3 @@
+nasm -f win64 calc_mingw.asm -o calc_mingw.obj
+gcc calc_mingw.obj -o calc_mingw.exe
+calc_mingw.exe

@@ -1,0 +1,1 @@
+gcc -O2 -static -o calc calc.c

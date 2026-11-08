@@ -1,0 +1,4 @@
+javac Calc.java
+java Calc
+jar cfe calc.jar Calc Calc.class
+java -jar calc.jar

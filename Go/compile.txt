@@ -1,0 +1,3 @@
+go build -o calc calc.go
+# or Windows
+go build -o calc.exe calc.go
